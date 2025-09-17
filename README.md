@@ -1,2 +1,2 @@
-# demo-repo
-This is my first git repository
+# bbsbec-repo
+This is my first Git Repository
